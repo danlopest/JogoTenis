@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUPzicFdpSYg3Fy4GUITWCn8SlQuXfZ5CnDd1fdiax7hi/yHJ5edJYBke13jXudYtqh6IPQFvmWxW8xWCWuJOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danilo.pereira\\Desktop\\TESTE\\Github\\TesteJogoTenis\\JogoTenis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danilo.pereira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

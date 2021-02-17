@@ -1,0 +1,13 @@
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\bin\Debug\netcoreapp3.1\TesteJogoTenis.exe
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\bin\Debug\netcoreapp3.1\TesteJogoTenis.deps.json
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\bin\Debug\netcoreapp3.1\TesteJogoTenis.runtimeconfig.json
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\bin\Debug\netcoreapp3.1\TesteJogoTenis.runtimeconfig.dev.json
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\bin\Debug\netcoreapp3.1\TesteJogoTenis.dll
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\bin\Debug\netcoreapp3.1\TesteJogoTenis.pdb
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\obj\Debug\netcoreapp3.1\TesteJogoTenis.csprojAssemblyReference.cache
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\obj\Debug\netcoreapp3.1\TesteJogoTenis.AssemblyInfoInputs.cache
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\obj\Debug\netcoreapp3.1\TesteJogoTenis.AssemblyInfo.cs
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\obj\Debug\netcoreapp3.1\TesteJogoTenis.csproj.CoreCompileInputs.cache
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\obj\Debug\netcoreapp3.1\TesteJogoTenis.dll
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\obj\Debug\netcoreapp3.1\TesteJogoTenis.pdb
+C:\Users\danilo.pereira\Desktop\TESTE\JogoTenisGit\TesteJogoTenis\TesteJogoTenis\obj\Debug\netcoreapp3.1\TesteJogoTenis.genruntimeconfig.cache
